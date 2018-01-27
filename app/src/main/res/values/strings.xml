@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="TOUCHDOWNS">TOUCHDOWNS\n+6 Points</string>
+    <string name="FIELD_GOALS">FIELD GOALS\n+3 Points</string>
+    <string name="TWO_POINT">TWO-POINT\n+2 Points</string>
+    <string name="EXTRA_POINT">EXTRA POINT\n+1 Points</string>
+</resources>
